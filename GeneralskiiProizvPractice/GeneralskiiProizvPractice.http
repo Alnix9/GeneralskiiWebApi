@@ -1,0 +1,6 @@
+@GeneralskiiProizvPractice_HostAddress = http://localhost:5159
+
+GET {{GeneralskiiProizvPractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
